@@ -1,0 +1,7 @@
+.DS_Store
+*.tmp.*
+
+# This repo is the tool, so it does not carry its own project state.
+# In YOUR project, do the opposite: commit .continuum/ so the state travels
+# with the repo. Never put secret values in it.
+.continuum/
